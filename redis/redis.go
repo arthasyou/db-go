@@ -3,8 +3,8 @@ package redis
 import (
 	"context"
 
+	"github.com/arthasyou/utility-go/logger"
 	"github.com/go-redis/redis/v8"
-	"github.com/luobin998877/go_utility/logger"
 	"github.com/spf13/viper"
 	"go.uber.org/zap"
 )

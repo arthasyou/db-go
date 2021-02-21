@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/luobin998877/go_db/redis"
+	"github.com/arthasyou/db-go/redis"
 )
 
 func main() {
